@@ -8,6 +8,7 @@ public class TwoClass {
 			
 			System.out.println(num[i]);
 		}
+		System.out.println("this is the reverse of the array Integer");
 
 	}
 
