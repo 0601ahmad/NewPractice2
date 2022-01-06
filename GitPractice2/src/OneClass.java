@@ -12,5 +12,7 @@ public class OneClass {
 		}
 		System.out.println(set);
 	}
+	public static void newNumber(int a, int b){
+		System.out.println(a + b);
 
 }
